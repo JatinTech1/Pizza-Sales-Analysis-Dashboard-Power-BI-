@@ -45,3 +45,7 @@ This Power BI dashboard was created to analyze and visualize pizza sales data. T
 -Learned how to derive business insights from raw sales data and present them in a visually appealing format.
 
 -Strengthened understanding of sales KPIs and performance tracking in the food & beverage industry.
+
+<img width="1318" height="744" alt="Screenshot 2025-08-22 022846" src="https://github.com/user-attachments/assets/99b6b9e3-7cf3-4d52-b3d0-9f78bed0499f" />
+<img width="1298" height="736" alt="Screenshot 2025-09-06 153949" src="https://github.com/user-attachments/assets/fda835a7-7e67-4f75-aed4-16bac650fc49" />
+
